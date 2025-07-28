@@ -29,13 +29,3 @@ TrackWeight uses macOS APIs to access pressure data from the Force Touch trackpa
 - Xcode 13+ (for building from source)
 
 ---
-
-## 📦 Installation
-
-### 🧪 From Source
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/TrackWeight.git
-cd TrackWeight
